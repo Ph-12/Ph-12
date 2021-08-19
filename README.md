@@ -7,12 +7,12 @@
 - 🥇 Conhecimentos avançado em html+css 
 
  <div>
-  <a href="https://linktr.ee/PhilippeVillegas">
+  <a href="https://linktr.ee/PhilippeVillegas"><br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ph-12&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ph-12&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-<div  style="justify-content: space-around">
+<div style="display: inline_block">
     <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
     <img align="center" alt="Cplusplus" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
     <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
