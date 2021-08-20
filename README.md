@@ -8,7 +8,7 @@
 
 
 <div style="display: inline_block">
-    <h4>Focado / Estudando</h4>
+    <h3>Focado / Estudando </h3>     
     React Native
     <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     Figma
@@ -21,8 +21,8 @@
     <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     Node.js
     <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-    Postgre
-    <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+    Python
+    <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
 <div style="display: inline_block">
@@ -37,14 +37,16 @@
   ##
 
 <div> 
+    <h3>Redes Sociais</h3>
   <a href="https://www.youtube.com/channel/UCBAXg9pEvE0zZojCmcfJpXw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href = "ph@phid.com.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/philippe-villegas-9a3884130" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "ph@phid.com.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  
   ![Snake animation](https://github.com/Ph-12/Ph-12/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
 
+##
+<h3>Stats</h3>
 <div>
   <a href="https://linktr.ee/PhilippeVillegas"><br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ph-12&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
