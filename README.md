@@ -18,7 +18,7 @@
 </div>
 
 <div style="display: inline_block">
-    <h3>Conhecimento Basico</h3>
+    <h3>Sei utilizar</h3>
     React.js
     <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     Node.js
