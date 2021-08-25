@@ -13,6 +13,8 @@
     <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     Figma
     <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
+    Inglês
+    <img align="center" alt="React" height="30" width="40" src="https://image.flaticon.com/icons/png/512/1053/1053375.png">
 </div>
 
 <div style="display: inline_block">
