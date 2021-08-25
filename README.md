@@ -14,7 +14,7 @@
     Figma
     <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
     Inglês
-    <img align="center" alt="React" height="30" width="40" src="https://cdn0.iconfinder.com/data/icons/household-thinline-icons-set/139/Speaking01-Outline-512.png">
+    <img align="center" alt="React" height="30" width="40" src="https://www.pngkit.com/png/full/119-1196254_ondas-do-mar-english-spanish-language-icon.png">
 </div>
 
 <div style="display: inline_block">
