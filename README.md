@@ -14,7 +14,7 @@
     Figma
     <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
     Inglês
-    <img align="center" alt="React" height="30" width="40" src="https://media.istockphoto.com/vectors/speak-english-icon-vector-id1125750170?k=6&m=1125750170&s=170667a&w=0&h=snW5n8csXK44qMWeTMj0ENag0pHX39jRRy1k9xROKN0=">
+    <img align="center" alt="React" height="30" width="40" src="https://cdn0.iconfinder.com/data/icons/household-thinline-icons-set/139/Speaking01-Outline-512.png">
 </div>
 
 <div style="display: inline_block">
